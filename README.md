@@ -16,9 +16,9 @@ This code proposes a novel approach, where the full text of a given patent appli
 
 ## Authors
 
-Dawood Wasif
-Zeeshan Ahmad
-Qasim Khan
+- Dawood Wasif
+- Zeeshan Ahmad
+- Qasim Khan
 
 ## Acknowledgments
 
