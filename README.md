@@ -24,7 +24,7 @@ This code proposes a novel approach, where the full text of a given patent appli
 
 Largely inspired from Shah Khalid (https://www.linkedin.com/in/shah-khalid-68149a10a/?originalSubdomain=pk)
 
-* [On The Current State of Scholarly Retrieval Systems]([https://www.etasr.com/index.php/ETASR/article/view/2448])
+* [On The Current State of Scholarly Retrieval Systems](https://www.etasr.com/index.php/ETASR/article/view/2448)
 * [An Effective Scholarly Search by Combining Inverted Indices and Structured Search With Citation Networks Analysis](https://ieeexplore.ieee.org/abstract/document/9522111)
 
 ## LICENSE
